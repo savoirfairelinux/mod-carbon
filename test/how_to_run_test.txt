@@ -1,0 +1,7 @@
+For running the test, you must install unittest2 (pip install unittest2)
+You can run the following command from the main folder of this repository
+
+nosetests -vx --with-coverage --cover-package=module
+
+
+

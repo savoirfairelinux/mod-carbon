@@ -1,0 +1,9 @@
+To build the documentation, you must run the following command in this file:
+
+make Makefile html
+
+or
+
+make makefile text
+
+This will create a build directory with the documentation in html/txt
